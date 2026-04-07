@@ -1,25 +1,32 @@
-# in-uitklok-systeem
+# ⏱️ In- en Uitklok Systeem
+Een full-stack applicatie om werktijden te registreren, beheren en in te zien.
 
-een in/uitklok systeem dat kan checken hoelaat je bent begonnen met werken en wanneer je weg bent gegaan
+🛠️ Tech Stack
+* Frontend: React
 
-# Tech stack
+* Backend: Python (FastAPI), SQLAlchemy
 
-* Frontend: React 
-* Backend: Python, SQLalchemy
-* Database: Postgress
+* Database: PostgreSQL
 
-# Persoonlijke dashboard
+# ✨ Belangrijkste Functionaliteiten
+# 📊 Persoonlijk Dashboard
 
-een overzichtelijk scherm voor de werknemer die kan zien hoevuul uur hij heeft gemaakt op een dag, week en maand
+Een overzichtelijk scherm voor de werknemer om in te zien hoeveel uur hij heeft gemaakt per dag, week en maand.
 
-# Veilig authenticatie systeem
+# 🔐 Veilig Authenticatie Systeem
 
-gebruikers kunnen veilig inloggen wachtwoorden worden opgeslagen dat wordt beveiligd met JWT-tokens waarbij er een verbinding is tussen React en FastAPI
+Gebruikers kunnen veilig inloggen. Wachtwoorden worden versleuteld opgeslagen en de verbinding tussen React en de API wordt beveiligd met JWT-tokens.
 
-# Admin paneel
+# 🛠️ Admin Paneel
 
-dit is een aparte omgeving voor managers om inklok tijden te bekijken en handmatig zelf aan te kunnen passen indien nodig is waarbij er ook mensen toegvoegd kunnen worden 
+Een aparte omgeving voor managers om:
 
-# Status overzicht
+Inkloktijden te bekijken.
 
-een live-lijst waarop de admin direct kan zien wie er is ingeklokt en wie niet 
+Tijden handmatig aan te passen indien nodig.
+
+Nieuwe medewerkers toe te voegen aan het systeem.
+
+# 🟢 Status Overzicht
+
+Een live-lijst waarop de admin direct kan zien wie er op dit moment is ingeklokt en wie niet.
