@@ -1,0 +1,42 @@
+# --- 1. Geheimen (Cruciaal!) ---
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# --- 2. Python / Backend ---
+backend/venv/
+backend/env/
+venv/
+env/
+__pycache__/
+*.py[cod]
+*$py.class
+backend/.pytest_cache/
+.python-version
+
+# --- 3. Node / Frontend ---
+frontend/node_modules/
+node_modules/
+frontend/dist/
+frontend/build/
+frontend/.eslintcache
+.npm
+.eslintcache
+
+# --- 4. Systeem (Mac / Windows) ---
+.DS_Store
+.DS_Store?
+._*
+.AppleDouble
+.LSOverride
+Icon
+Thumbs.db
+ehthumbs.db
+
+# --- 5. Code Editor (VS Code / PyCharm) ---
+.vscode/
+.idea/
+*.swp
+*.scratch
