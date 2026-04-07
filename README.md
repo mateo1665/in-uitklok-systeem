@@ -1,14 +1,13 @@
 # ⏱️ In- en Uitklok Systeem
 Een full-stack applicatie om werktijden te registreren, beheren en in te zien.
 
-🛠️ Tech Stack
+# 🛠️ Tech Stack
 * Frontend: React
 
 * Backend: Python (FastAPI), SQLAlchemy
 
 * Database: PostgreSQL
 
-# ✨ Belangrijkste Functionaliteiten
 # 📊 Persoonlijk Dashboard
 
 Een overzichtelijk scherm voor de werknemer om in te zien hoeveel uur hij heeft gemaakt per dag, week en maand.
