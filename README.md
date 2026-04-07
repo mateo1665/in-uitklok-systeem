@@ -5,8 +5,8 @@ een in/uitklok systeem dat kan checken hoelaat je bent begonnen met werken en wa
 # Tech stack
 
 Frontend: React 
-Backend: Python, SQLalchemy
-Database: Postgress
+/n Backend: Python, SQLalchemy
+/n Database: Postgress
 
 # Persoonlijke dashboard
 
